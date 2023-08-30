@@ -10,6 +10,7 @@ if (abrirMov == "S") {
         
         area.push (i);
     }
+    console.log("Iniciando movimento!");
    console.log(area);
     }else{
         
