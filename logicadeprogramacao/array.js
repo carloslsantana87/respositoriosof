@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 var abrirMov;
-const vagas = 1;
+const vagas = 2;
 abrirMov = prompt("Deseja abrir o movimento: - S - Sim | N - Não        ").toUpperCase();
 if (abrirMov == "S") {
 
